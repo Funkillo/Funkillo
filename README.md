@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 - linkfun@outlook.es 
 - telefo  633698035
-- 
 - Aprendiendo JavaScript :D:D:D
 - curso MASTER EN PHYTON EN UDEMY!![UC-15c3721d-87c4-4706-ae1f-9990ed57b96c](https://user-images.githubusercontent.com/108898406/211011604-d733008e-69ef-4084-a483-44b45c8c5b66.jpg)
 
