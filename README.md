@@ -1,15 +1,6 @@
-- 👋 Hi, I’m @Funkillo
-- 👀 I’m interested in Phyton and CSS HTML 
-- 🌱 I’m currently learnin Grado en Gestión y contenidos digitales 
-- 💞️ I’m looking to collaborate on   Cualquier empresa de programación 
-- 📫 How to reach me ...
-- linkfun@outlook.es 
-- telefo  633698035
-- Aprendiendo JavaScript :D:D:D
-- curso MASTER EN PHYTON EN UDEMY!![UC-15c3721d-87c4-4706-ae1f-9990ed57b96c](https://user-images.githubusercontent.com/108898406/211011604-d733008e-69ef-4084-a483-44b45c8c5b66.jpg)
+- 👋 Hi, I’m @Funkillo👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻
+- Desarrollador Frontend $ Backend (Junior) | JavaScript, HTML5, CSS & React, Php, Ajax, Phyton, Django. MySql, WordPress,Community manager, Gestor de contenidos digitales, gestor de redes sociales, entornos web, Analista de datos, activos y técnicas de marketing digital. Documentalista, Gestor/a documental de calidad, Archivero, Bibliotecario.🎓🎓🎓🎓🎓🎓
 
-- Actualmente  enfocado en JavaScript y PHP!
-<!---
-Funkillo/Funkillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+Hola, me llamo Juan Antonio🙇🏼‍♀️🙇🏼‍♀️ y actualmente estoy cursando el Grado en Gestión de Información y Contenidos Digitales en la Universidad de Murcia. Comencé el camino del desarrollo web $ desarrollo de aplicaciones en 2020, cuando comencé el Grado. Los principales lenguajes de programación son JavaScript, PHP, PHYTON. Encontrando las ganas de seguir fortaleciendo los conocimientos aprendidos con cursos muy prácticos en plataformas como Udemy, donde entreno diariamente y me encanta evolucionar, seguir aprendiendo las tecnologías más importantes y seguir creciendo como desarrollador.⌨️⌨️⌨️⌨️
